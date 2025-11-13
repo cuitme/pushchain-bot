@@ -12,8 +12,8 @@ A simple automation script for interacting with the PushChain network. This bot 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/cuitme/PushChain-Bot.git
-    cd PushChain-Auto-Bot
+    git clone https://github.com/cuitme/pushChain-bot.git
+    cd pushChain-bot
     ```
 
 2.  **Install dependencies:**
